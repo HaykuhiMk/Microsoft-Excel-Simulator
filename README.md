@@ -9,5 +9,4 @@ It provides a command-line interface for creating, manipulating, and performing 
 - Enter data and formulas in cells.
 - Perform calculations and update cell values automatically.
 - Support for basic mathematical functions and formulas.
-- Save and load spreadsheet data from files.
 - User-friendly command-line interface.
